@@ -1,3 +1,8 @@
+### Tutorials used:
+
+React JS Crash Course by Traversy Media:
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=PLOwtwC13AV0G3AcMy8R7rEFqFpqMJ7F0f&index=10
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
